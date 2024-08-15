@@ -1,2 +1,4 @@
-*.pdf -binary text
-*.cmap linguist-language=PostScript
+# Force PostScript highlighting on GitHub.com
+[attr]ps -binary text linguist-language=PostScript
+*.pdf  ps
+*.cmap ps
