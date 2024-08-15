@@ -1,1 +1,2 @@
 *.pdf -binary text
+*.cmap linguist-language=PostScript
