@@ -1,4 +1,4 @@
 # Force PostScript highlighting on GitHub.com
 [attr]ps -binary text linguist-language=PostScript
-*.pdf  ps
+*.pdf  ps diff=text
 *.cmap ps

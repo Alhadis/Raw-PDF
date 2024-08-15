@@ -1,0 +1,4 @@
+[diff "text"]
+	binary = false
+	cachetextconv = false
+	textconv = cat
